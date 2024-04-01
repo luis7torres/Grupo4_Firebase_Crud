@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089690083314",
+    "project_id": "crudg4",
+    "storage_bucket": "crudg4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089690083314:android:c4d6bc3c09f3a62ce2956b",
+        "android_client_info": {
+          "package_name": "com.example.grupo4_firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_-4I6VukKz62ePUnch6F9f0TmbDCKGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

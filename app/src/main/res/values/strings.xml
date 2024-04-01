@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grupo4_Firebase_Crud</string>
+    <string name="btn_foto">Foto</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_registros">Registros</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_fecha">Fecha de Nacimiento</string>
+</resources>
